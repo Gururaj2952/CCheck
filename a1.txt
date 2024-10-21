@@ -1,3 +1,6 @@
  First line at the master
+<<<<<<< HEAD
 
  second in master
+=======
+>>>>>>> b2d007f (Added first line)
