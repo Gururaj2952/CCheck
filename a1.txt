@@ -1,6 +1,7 @@
  First line at the master
 
  Second line at feature branch
+<<<<<<< HEAD
 
  Third line at feature
 
@@ -12,3 +13,5 @@ rebase test
 another test two
 =======
 >>>>>>> parent of 4945d4b (Update a1.txt)
+=======
+>>>>>>> 370cee9 (feature branch commit)
