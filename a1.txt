@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  second in master
 =======
@@ -14,3 +15,7 @@ added new line after cherry pick
 
  second in master
 >>>>>>> 6950f1a (second commit)
+=======
+
+ second in master
+>>>>>>> parent of 55603e5 ('#'Added first line)
