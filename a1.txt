@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  Third line at feature
 
@@ -43,3 +44,7 @@ another test two
 >>>>>>> parent of 4945d4b (Update a1.txt)
 =======
 >>>>>>> 370cee9 (feature branch commit)
+=======
+
+ Third line at feature
+>>>>>>> 4eb391d (second commit at feature)
