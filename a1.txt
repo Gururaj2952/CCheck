@@ -3,3 +3,5 @@
  Second line at feature branch
 
  Third line at feature
+
+Fourth line
