@@ -1,6 +1,7 @@
  First line at the master
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  second in master
 =======
@@ -9,3 +10,7 @@
 >>>>>>> b2d007f (Added first line)
 
 added new line after cherry pick
+=======
+
+ second in master
+>>>>>>> 6950f1a (second commit)
