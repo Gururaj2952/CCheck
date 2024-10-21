@@ -1,1 +1,3 @@
  First line at the master
+
+ second in master
