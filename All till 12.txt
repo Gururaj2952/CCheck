@@ -1,0 +1,16 @@
+git init
+git remote add origin .........
+git checkout -b master
+git fetch origin
+git checkout USER1
+git rebase origin/USER1
+git checkout master
+git merge USER1 -m "Your custom commit message here"
+git tag v1.0
+git show 5c55cfc
+git log -n 1 5c55cfc
+git log -n 5
+git log --author="Gururaj2952" --since="2023-01-01" --until="2024-12-31"
+
+
+git remote rm origin
