@@ -7,3 +7,5 @@
 >>>>>>> b2d007f (Added first line)
 =======
 >>>>>>> b2d007f (Added first line)
+
+added new line after cherry pick
