@@ -5,3 +5,5 @@
  Third line at feature
 
 Fourth line
+
+rebase test
