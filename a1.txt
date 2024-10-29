@@ -9,6 +9,7 @@
 Fourth line
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 rebase test
 
@@ -21,5 +22,7 @@ another test two
 
  Third line at feature
 >>>>>>> 4eb391d (second commit at feature)
+=======
+>>>>>>> parent of 4945d4b (Update a1.txt)
 =======
 >>>>>>> parent of 4945d4b (Update a1.txt)
