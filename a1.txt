@@ -5,7 +5,10 @@
  Third line at feature
 
 Fourth line
+<<<<<<< HEAD
 
 rebase test
 
 another test two
+=======
+>>>>>>> parent of 4945d4b (Update a1.txt)
